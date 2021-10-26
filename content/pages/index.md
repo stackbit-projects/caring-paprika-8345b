@@ -312,9 +312,9 @@ sections:
     colors: colors-h
     backgroundWidth: full
     testimonials:
-      - quote: >-
+      - quote: >
           “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
+          sustainable fish supply to home cooks testing focus on text.”
         name: Isabelle Parks
         title: Head chef at Parks
         image:
