@@ -319,7 +319,7 @@ sections:
         title: Head chef at Parks
         image:
           type: ImageBlock
-          url: /images/isabelle-parks.jpg
+          url: /images/dianne-ameter.jpg
           altText: Isabelle Parks
         styles:
           self:
