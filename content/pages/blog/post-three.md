@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/isabelle-parks.jpg
+  url: /images/hero.png
   altText: Post Image
 bottomSections:
   - type: CtaSection
