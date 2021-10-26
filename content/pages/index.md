@@ -458,7 +458,7 @@ sections:
           name: home-address
           label: Home address
           placeholder: Your home address
-          isRequired: false
+          isRequired: true
           width: full
         - type: CheckboxFormControl
           name: updates
